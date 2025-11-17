@@ -1,4 +1,4 @@
-# Code Implementation of the MambaIR Model
+
 import math
 import torch
 import torch.nn as nn
