@@ -11,12 +11,10 @@ Experiments on UCMerced, RSSCN7, AID, and WHU-RS19 datasets under ×2, ×3, and 
 Conclusion  
 LAMA-SR effectively integrates global modeling efficiency with strong local fidelity, producing sharper boundaries and more natural textures while maintaining a favorable accuracy–efficiency balance. The results demonstrate that state-space models can be well adapted to high-resolution remote sensing imagery, offering a promising direction for lightweight super-resolution research.
 # result
-<img width="2371" height="1657" alt="Graph1" src="https://github.com/user-attachments/assets/70f71867-64a0-4cbd-9b70-b4742a97935e" />
+
+
 # dataset
-[UCMerced](http://weegee.vision.ucmerced.edu/datasets/landuse.html)
-
-[RSSCN7](https://github.com/palewithout/RSSCN7)
-
-[AID](https://github.com/palewithout/RSSCN7)
-
-[WHU-RS19](https://github.com/palewithout/RSSCN7)
+[UCMerced](http://weegee.vision.ucmerced.edu/datasets/landuse.html)  
+[RSSCN7](https://github.com/palewithout/RSSCN7)  
+[AID](https://github.com/palewithout/RSSCN7)  
+[WHU-RS19](https://github.com/palewithout/RSSCN7)  
