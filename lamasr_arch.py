@@ -528,7 +528,7 @@ class RMBlock(nn.Module):
 
 
 @ARCH_REGISTRY.register()
-class ours_4D_dwconv(nn.Module):  # 6个RSSG 每个RSSG6个RSSB
+class LamaSR(nn.Module):  # 6个RSSG 每个RSSG6个RSSB
     r""" MambaIR Model
            A PyTorch impl of : `A Simple Baseline for Image Restoration with State Space Model `.
 
